@@ -5,7 +5,6 @@ seaborn
 tweepy
 pandas
 pycountry
-re
 string
 wordcloud
 langdetect
