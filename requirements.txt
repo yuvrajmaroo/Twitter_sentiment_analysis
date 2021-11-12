@@ -4,7 +4,6 @@ textblob
 seaborn
 tweepy
 pandas
-os
 pycountry
 re
 string
