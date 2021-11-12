@@ -4,7 +4,6 @@ textblob
 seaborn
 tweepy
 pandas
-numpy
 os
 pycountry
 re
