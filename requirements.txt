@@ -1,2 +1,14 @@
 streamlit
 nltk
+textblob
+seaborn
+tweepy
+pandas
+numpy
+os
+pycountry
+re
+string
+wordcloud
+langdetect
+sklearn
